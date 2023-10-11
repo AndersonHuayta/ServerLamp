@@ -16,3 +16,13 @@ CREATE DATABASE serverlamp;
 show databases;
 exit
 exit
+
+cd /var/www/html
+sudo nano add.html
+sudo nano add.php
+sudo nano config.php
+sudo nano delete.php
+sudo nano edit.php
+sudo nano index.php
+
+sudo apt install git
